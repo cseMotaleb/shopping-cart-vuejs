@@ -1,4 +1,5 @@
 # ecommerce-cart
+APP URL: https://kind-ardinghelli-cd0014.netlify.app/
 
 ## Project setup
 ```
